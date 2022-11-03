@@ -11,8 +11,8 @@ The movies are recommended based on the content of the movie you entered or sele
 
 ### Tech and Tools used
 
-1. [VS Code IDE](https://code.visualstudio.com/)
-2. [HerokuAccount](https://heroku.com)
+1. VS Code IDE
+2. Jupyter Notebook
 3. Python
 4. Flask
 5. TMDB API
