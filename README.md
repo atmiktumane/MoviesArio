@@ -4,6 +4,7 @@ Movies Recommendation System that recommends movies similar to the movie the use
 </ul>
 <ul>
 Performed sentiment analysis and displayed corresponding reviews.
+Cosine similarity is Highly used in movies recommendation system as it measures the similarity score between the parameters.
 </ul>
 <ul>
 The movies are recommended based on the content of the movie you entered or selected. The main parameters that are considered for the recommendations are the genre, director and top casts of the film. Further the details of the movies like title, cast, ratings, etc., are fetched from TMDB. Performed sentiment analysis where the model predicts whether the review is positive or negative.
