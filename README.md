@@ -17,3 +17,6 @@ The movies are recommended based on the content of the movie you entered or sele
 3. Python
 4. Flask
 5. TMDB API
+
+##### Sentiment Analysis :
+It is an approach to natural language processing (NLP) that identifies the emotional tone behind a body of text.
